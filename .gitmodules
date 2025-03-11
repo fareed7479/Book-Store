@@ -1,0 +1,3 @@
+[submodule "FRONTEND/FRONTEND/front-end"]
+	path = FRONTEND/FRONTEND/front-end
+	url = https://github.com/fareed7479/BookStore.git
